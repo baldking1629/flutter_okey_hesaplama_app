@@ -64,7 +64,7 @@ class _MyAppState extends State<MyApp> {
                 children: [
                   Text(
                     elBilgisi(okeysayi),
-                    style: GoogleFonts.notoSansBuginese(fontSize: 28),
+                    style: GoogleFonts.kanit(fontSize: 28),
                   ),
                   Text(
                     okeysayi.toString(),
